@@ -1,0 +1,6 @@
+{
+  "scanDirectories": ["/absolute/path/to/projects"],
+  "githubToken": "",
+  "gitlabToken": "",
+  "gitlabUrl": "https://gitlab.com"
+}
